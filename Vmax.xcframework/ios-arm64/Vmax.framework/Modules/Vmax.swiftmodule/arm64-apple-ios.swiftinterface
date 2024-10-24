@@ -1590,6 +1590,7 @@ final public class VmaxAdInfo {
   final public var isCTAAvailable: Swift.Bool?
   final public var adIconUrl: Swift.String?
   final public var adClickUrl: Swift.String?
+  final public var companions: [Any]?
   final public var companionResourceUrls: [Swift.String]?
   final public var cacheMode: Vmax.VmaxCacheMode
   public init()

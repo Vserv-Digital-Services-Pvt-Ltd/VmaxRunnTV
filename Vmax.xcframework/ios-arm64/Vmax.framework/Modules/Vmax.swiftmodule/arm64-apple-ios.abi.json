@@ -45665,6 +45665,147 @@
           },
           {
             "kind": "Var",
+            "name": "companions",
+            "printedName": "companions",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Any]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:4Vmax0A6AdInfoC10companionsSayypGSgvp",
+            "mangledName": "$s4Vmax0A6AdInfoC10companionsSayypGSgvp",
+            "moduleName": "Vmax",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "[Any]?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Array",
+                        "printedName": "[Any]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ProtocolComposition",
+                            "printedName": "Any"
+                          }
+                        ],
+                        "usr": "s:Sa"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:4Vmax0A6AdInfoC10companionsSayypGSgvg",
+                "mangledName": "$s4Vmax0A6AdInfoC10companionsSayypGSgvg",
+                "moduleName": "Vmax",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "[Any]?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Array",
+                        "printedName": "[Any]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ProtocolComposition",
+                            "printedName": "Any"
+                          }
+                        ],
+                        "usr": "s:Sa"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:4Vmax0A6AdInfoC10companionsSayypGSgvs",
+                "mangledName": "$s4Vmax0A6AdInfoC10companionsSayypGSgvs",
+                "moduleName": "Vmax",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:4Vmax0A6AdInfoC10companionsSayypGSgvM",
+                "mangledName": "$s4Vmax0A6AdInfoC10companionsSayypGSgvM",
+                "moduleName": "Vmax",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "companionResourceUrls",
             "printedName": "companionResourceUrls",
             "children": [
@@ -54642,2256 +54783,2536 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 5735,
+      "offset": 5731,
+      "length": 11,
+      "value": "\"iPad14,10\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 5751,
+      "length": 23,
+      "value": "\"iPad Air 13-inch (M2)\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 5844,
+      "length": 11,
+      "value": "\"iPad14,11\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 5864,
+      "length": 23,
+      "value": "\"iPad Air 13-inch (M2)\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 5961,
       "length": 10,
       "value": "\"iPad14,2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 5754,
+      "offset": 5980,
       "length": 28,
       "value": "\"iPad mini (6th generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 5867,
+      "offset": 6093,
       "length": 12,
       "value": "\"iPad14,3-A\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 5888,
+      "offset": 6114,
       "length": 37,
       "value": "\"iPad Pro (11-inch) (4th generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 6010,
+      "offset": 6236,
       "length": 12,
       "value": "\"iPad14,3-B\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 6031,
+      "offset": 6257,
       "length": 37,
       "value": "\"iPad Pro (11-inch) (4th generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 6153,
+      "offset": 6379,
       "length": 12,
       "value": "\"iPad14,4-A\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 6174,
+      "offset": 6400,
       "length": 37,
       "value": "\"iPad Pro (11-inch) (4th generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 6296,
+      "offset": 6522,
       "length": 12,
       "value": "\"iPad14,4-B\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 6317,
+      "offset": 6543,
       "length": 37,
       "value": "\"iPad Pro (11-inch) (4th generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 6441,
+      "offset": 6667,
       "length": 12,
       "value": "\"iPad14,5-A\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 6462,
+      "offset": 6688,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (6th generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 6588,
+      "offset": 6814,
       "length": 12,
       "value": "\"iPad14,5-B\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 6609,
+      "offset": 6835,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (6th generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 6735,
+      "offset": 6961,
       "length": 12,
       "value": "\"iPad14,6-A\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 6756,
+      "offset": 6982,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (6th generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 6882,
+      "offset": 7108,
       "length": 12,
       "value": "\"iPad14,6-B\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 6903,
+      "offset": 7129,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (6th generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 7011,
+      "offset": 7237,
       "length": 10,
-      "value": "\"iPad6,11\""
+      "value": "\"iPad14,8\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 7030,
+      "offset": 7256,
       "length": 23,
-      "value": "\"iPad (5th generation)\""
+      "value": "\"iPad Air 11-inch (M2)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 7122,
+      "offset": 7348,
       "length": 10,
-      "value": "\"iPad6,12\""
+      "value": "\"iPad14,9\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 7141,
+      "offset": 7367,
       "length": 23,
-      "value": "\"iPad (5th generation)\""
+      "value": "\"iPad Air 11-inch (M2)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 7230,
-      "length": 9,
-      "value": "\"iPad6,3\""
+      "offset": 7461,
+      "length": 12,
+      "value": "\"iPad16,3-A\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 7248,
-      "length": 21,
-      "value": "\"iPad Pro (9.7-inch)\""
+      "offset": 7482,
+      "length": 23,
+      "value": "\"iPad Pro 11-inch (M4)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 7335,
-      "length": 9,
-      "value": "\"iPad6,4\""
+      "offset": 7576,
+      "length": 12,
+      "value": "\"iPad16,3-B\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 7353,
-      "length": 21,
-      "value": "\"iPad Pro (9.7-inch)\""
+      "offset": 7597,
+      "length": 23,
+      "value": "\"iPad Pro 11-inch (M4)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 7441,
-      "length": 9,
-      "value": "\"iPad6,7\""
+      "offset": 7691,
+      "length": 12,
+      "value": "\"iPad16,4-A\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 7459,
-      "length": 22,
-      "value": "\"iPad Pro (12.9-inch)\""
+      "offset": 7712,
+      "length": 23,
+      "value": "\"iPad Pro 11-inch (M4)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 7548,
-      "length": 9,
-      "value": "\"iPad6,8\""
+      "offset": 7806,
+      "length": 12,
+      "value": "\"iPad16,4-B\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 7566,
-      "length": 22,
-      "value": "\"iPad Pro (12.9-inch)\""
+      "offset": 7827,
+      "length": 23,
+      "value": "\"iPad Pro 11-inch (M4)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 7672,
-      "length": 9,
-      "value": "\"iPad7,1\""
+      "offset": 7921,
+      "length": 12,
+      "value": "\"iPad16,5-A\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 7690,
-      "length": 39,
-      "value": "\"iPad Pro (12.9-inch) (2nd generation)\""
+      "offset": 7942,
+      "length": 23,
+      "value": "\"iPad Pro 13-inch (M4)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 7798,
+      "offset": 8036,
+      "length": 12,
+      "value": "\"iPad16,5-B\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 8057,
+      "length": 23,
+      "value": "\"iPad Pro 13-inch (M4)\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 8151,
+      "length": 12,
+      "value": "\"iPad16,6-A\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 8172,
+      "length": 23,
+      "value": "\"iPad Pro 13-inch (M4)\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 8266,
+      "length": 12,
+      "value": "\"iPad16,6-B\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 8287,
+      "length": 23,
+      "value": "\"iPad Pro 13-inch (M4)\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 8379,
       "length": 10,
       "value": "\"iPad7,11\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 7817,
+      "offset": 8398,
       "length": 23,
       "value": "\"iPad (7th generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 7909,
+      "offset": 8490,
       "length": 10,
       "value": "\"iPad7,12\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 7928,
+      "offset": 8509,
       "length": 23,
       "value": "\"iPad (7th generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 8035,
-      "length": 9,
-      "value": "\"iPad7,2\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 8053,
-      "length": 39,
-      "value": "\"iPad Pro (12.9-inch) (2nd generation)\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 8159,
-      "length": 9,
-      "value": "\"iPad7,3\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 8177,
-      "length": 22,
-      "value": "\"iPad Pro (10.5-inch)\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 8266,
-      "length": 9,
-      "value": "\"iPad7,4\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 8284,
-      "length": 22,
-      "value": "\"iPad Pro (10.5-inch)\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 8374,
-      "length": 9,
-      "value": "\"iPad7,5\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 8392,
-      "length": 23,
-      "value": "\"iPad (6th generation)\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 8483,
-      "length": 9,
-      "value": "\"iPad7,6\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 8501,
-      "length": 23,
-      "value": "\"iPad (6th generation)\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 8589,
+      "offset": 8597,
       "length": 9,
       "value": "\"iPad8,1\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 8607,
+      "offset": 8615,
       "length": 20,
       "value": "\"iPad Pro (11-inch)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 8710,
+      "offset": 8718,
       "length": 10,
       "value": "\"iPad8,10\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 8729,
+      "offset": 8737,
       "length": 37,
       "value": "\"iPad Pro (11-inch) (2nd generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 8851,
+      "offset": 8859,
       "length": 10,
       "value": "\"iPad8,11\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 8870,
+      "offset": 8878,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (4th generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 8994,
+      "offset": 9002,
       "length": 10,
       "value": "\"iPad8,12\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 9013,
+      "offset": 9021,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (4th generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 9117,
+      "offset": 9125,
       "length": 9,
       "value": "\"iPad8,2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 9135,
+      "offset": 9143,
       "length": 20,
       "value": "\"iPad Pro (11-inch)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 9220,
+      "offset": 9228,
       "length": 9,
       "value": "\"iPad8,3\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 9238,
+      "offset": 9246,
       "length": 20,
       "value": "\"iPad Pro (11-inch)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 9323,
+      "offset": 9331,
       "length": 9,
       "value": "\"iPad8,4\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 9341,
+      "offset": 9349,
       "length": 20,
       "value": "\"iPad Pro (11-inch)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 9445,
+      "offset": 9453,
       "length": 9,
       "value": "\"iPad8,5\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 9463,
+      "offset": 9471,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (3rd generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 9586,
+      "offset": 9594,
       "length": 9,
       "value": "\"iPad8,6\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 9604,
+      "offset": 9612,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (3rd generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 9727,
+      "offset": 9735,
       "length": 9,
       "value": "\"iPad8,7\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 9745,
+      "offset": 9753,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (3rd generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 9868,
+      "offset": 9876,
       "length": 9,
       "value": "\"iPad8,8\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 9886,
+      "offset": 9894,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (3rd generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 10007,
+      "offset": 10015,
       "length": 9,
       "value": "\"iPad8,9\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 10025,
+      "offset": 10033,
       "length": 37,
       "value": "\"iPad Pro (11-inch) (2nd generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 10120,
-      "length": 12,
-      "value": "\"iPhone10,1\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 10141,
-      "length": 10,
-      "value": "\"iPhone 8\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 10214,
-      "length": 12,
-      "value": "\"iPhone10,2\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 10235,
-      "length": 15,
-      "value": "\"iPhone 8 Plus\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 10308,
-      "length": 12,
-      "value": "\"iPhone10,3\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 10329,
-      "length": 10,
-      "value": "\"iPhone X\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 10397,
-      "length": 12,
-      "value": "\"iPhone10,4\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 10418,
-      "length": 10,
-      "value": "\"iPhone 8\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 10491,
-      "length": 12,
-      "value": "\"iPhone10,5\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 10512,
-      "length": 15,
-      "value": "\"iPhone 8 Plus\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 10585,
-      "length": 12,
-      "value": "\"iPhone10,6\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 10606,
-      "length": 10,
-      "value": "\"iPhone X\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 10675,
+      "offset": 10129,
       "length": 12,
       "value": "\"iPhone11,2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 10696,
+      "offset": 10150,
       "length": 11,
       "value": "\"iPhone XS\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 10770,
+      "offset": 10224,
       "length": 12,
       "value": "\"iPhone11,4\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 10791,
+      "offset": 10245,
       "length": 15,
       "value": "\"iPhone XS Max\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 10869,
+      "offset": 10323,
       "length": 12,
       "value": "\"iPhone11,6\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 10890,
+      "offset": 10344,
       "length": 15,
       "value": "\"iPhone XS Max\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 10964,
+      "offset": 10418,
       "length": 12,
       "value": "\"iPhone11,8\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 10985,
+      "offset": 10439,
       "length": 11,
       "value": "\"iPhone XR\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 11055,
+      "offset": 10509,
       "length": 12,
       "value": "\"iPhone12,1\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 11076,
+      "offset": 10530,
       "length": 11,
       "value": "\"iPhone 11\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 11150,
+      "offset": 10604,
       "length": 12,
       "value": "\"iPhone12,3\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 11171,
+      "offset": 10625,
       "length": 15,
       "value": "\"iPhone 11 Pro\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 11253,
+      "offset": 10707,
       "length": 12,
       "value": "\"iPhone12,5\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 11274,
+      "offset": 10728,
       "length": 19,
       "value": "\"iPhone 11 Pro Max\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 11369,
+      "offset": 10823,
       "length": 12,
       "value": "\"iPhone12,8\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 11390,
+      "offset": 10844,
       "length": 28,
       "value": "\"iPhone SE (2nd generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 11482,
+      "offset": 10936,
       "length": 12,
       "value": "\"iPhone13,1\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 11503,
+      "offset": 10957,
       "length": 16,
       "value": "\"iPhone 12 mini\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 11578,
+      "offset": 11032,
       "length": 12,
       "value": "\"iPhone13,2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 11599,
+      "offset": 11053,
       "length": 11,
       "value": "\"iPhone 12\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 11673,
+      "offset": 11127,
       "length": 12,
       "value": "\"iPhone13,3\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 11694,
+      "offset": 11148,
       "length": 15,
       "value": "\"iPhone 12 Pro\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 11776,
+      "offset": 11230,
       "length": 12,
       "value": "\"iPhone13,4\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 11797,
+      "offset": 11251,
       "length": 19,
       "value": "\"iPhone 12 Pro Max\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 11879,
+      "offset": 11333,
       "length": 12,
       "value": "\"iPhone14,2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 11900,
+      "offset": 11354,
       "length": 15,
       "value": "\"iPhone 13 Pro\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 11982,
+      "offset": 11436,
       "length": 12,
       "value": "\"iPhone14,3\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 12003,
+      "offset": 11457,
       "length": 19,
       "value": "\"iPhone 13 Pro Max\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 12086,
+      "offset": 11540,
       "length": 12,
       "value": "\"iPhone14,4\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 12107,
+      "offset": 11561,
       "length": 16,
       "value": "\"iPhone 13 mini\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 12182,
+      "offset": 11636,
       "length": 12,
       "value": "\"iPhone14,5\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 12203,
+      "offset": 11657,
       "length": 11,
       "value": "\"iPhone 13\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 12290,
+      "offset": 11744,
       "length": 12,
       "value": "\"iPhone14,6\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 12311,
+      "offset": 11765,
       "length": 28,
       "value": "\"iPhone SE (3rd generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 12398,
+      "offset": 11852,
       "length": 12,
       "value": "\"iPhone14,7\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 12419,
+      "offset": 11873,
       "length": 11,
       "value": "\"iPhone 14\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 12494,
+      "offset": 11948,
       "length": 12,
       "value": "\"iPhone14,8\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 12515,
+      "offset": 11969,
       "length": 16,
       "value": "\"iPhone 14 Plus\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 12594,
+      "offset": 12048,
       "length": 12,
       "value": "\"iPhone15,2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 12615,
+      "offset": 12069,
       "length": 15,
       "value": "\"iPhone 14 Pro\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 12697,
+      "offset": 12151,
       "length": 12,
       "value": "\"iPhone15,3\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 12718,
+      "offset": 12172,
       "length": 19,
       "value": "\"iPhone 14 Pro Max\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 12796,
+      "offset": 12250,
       "length": 12,
       "value": "\"iPhone15,4\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 12817,
+      "offset": 12271,
       "length": 11,
       "value": "\"iPhone 15\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 12892,
+      "offset": 12346,
       "length": 12,
       "value": "\"iPhone15,5\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 12913,
+      "offset": 12367,
       "length": 16,
       "value": "\"iPhone 15 Plus\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 12992,
+      "offset": 12446,
       "length": 12,
       "value": "\"iPhone16,1\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 13013,
+      "offset": 12467,
       "length": 15,
       "value": "\"iPhone 15 Pro\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 13095,
+      "offset": 12549,
       "length": 12,
       "value": "\"iPhone16,2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 13116,
+      "offset": 12570,
       "length": 19,
       "value": "\"iPhone 15 Pro Max\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 13188,
+      "offset": 12652,
+      "length": 12,
+      "value": "\"iPhone17,1\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 12673,
+      "length": 15,
+      "value": "\"iPhone 16 Pro\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 12755,
+      "length": 12,
+      "value": "\"iPhone17,2\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 12776,
+      "length": 19,
+      "value": "\"iPhone 16 Pro Max\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 12854,
+      "length": 12,
+      "value": "\"iPhone17,3\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 12875,
+      "length": 11,
+      "value": "\"iPhone 16\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 12950,
+      "length": 12,
+      "value": "\"iPhone17,4\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 12971,
+      "length": 16,
+      "value": "\"iPhone 16 Plus\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 13040,
       "length": 9,
       "value": "\"iPad2,1\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 13206,
+      "offset": 13058,
       "length": 8,
       "value": "\"iPad 2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 13267,
+      "offset": 13119,
       "length": 9,
       "value": "\"iPad2,2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 13285,
+      "offset": 13137,
       "length": 8,
       "value": "\"iPad 2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 13346,
+      "offset": 13198,
       "length": 9,
       "value": "\"iPad2,3\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 13364,
+      "offset": 13216,
       "length": 8,
       "value": "\"iPad 2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 13425,
+      "offset": 13277,
       "length": 9,
       "value": "\"iPad2,4\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 13443,
+      "offset": 13295,
       "length": 8,
       "value": "\"iPad 2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 13507,
+      "offset": 13359,
       "length": 9,
       "value": "\"iPad2,5\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 13525,
+      "offset": 13377,
       "length": 11,
       "value": "\"iPad mini\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 13592,
+      "offset": 13444,
       "length": 9,
       "value": "\"iPad2,6\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 13610,
+      "offset": 13462,
       "length": 11,
       "value": "\"iPad mini\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 13677,
+      "offset": 13529,
       "length": 9,
       "value": "\"iPad2,7\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 13695,
+      "offset": 13547,
       "length": 11,
       "value": "\"iPad mini\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 13774,
+      "offset": 13626,
       "length": 9,
       "value": "\"iPad3,1\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 13792,
+      "offset": 13644,
       "length": 23,
       "value": "\"iPad (3rd generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 13883,
+      "offset": 13735,
       "length": 9,
       "value": "\"iPad3,2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 13901,
+      "offset": 13753,
       "length": 23,
       "value": "\"iPad (3rd generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 13992,
+      "offset": 13844,
       "length": 9,
       "value": "\"iPad3,3\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 14010,
+      "offset": 13862,
       "length": 23,
       "value": "\"iPad (3rd generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 14101,
+      "offset": 13953,
       "length": 9,
       "value": "\"iPad3,4\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 14119,
+      "offset": 13971,
       "length": 23,
       "value": "\"iPad (4th generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 14210,
+      "offset": 14062,
       "length": 9,
       "value": "\"iPad3,5\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 14228,
+      "offset": 14080,
       "length": 23,
       "value": "\"iPad (4th generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 14319,
+      "offset": 14171,
       "length": 9,
       "value": "\"iPad3,6\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 14337,
+      "offset": 14189,
       "length": 23,
       "value": "\"iPad (4th generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 14415,
+      "offset": 14267,
       "length": 9,
       "value": "\"iPad4,1\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 14433,
+      "offset": 14285,
       "length": 10,
       "value": "\"iPad Air\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 14498,
+      "offset": 14350,
       "length": 9,
       "value": "\"iPad4,2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 14516,
+      "offset": 14368,
       "length": 10,
       "value": "\"iPad Air\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 14581,
+      "offset": 14433,
       "length": 9,
       "value": "\"iPad4,3\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 14599,
+      "offset": 14451,
       "length": 10,
       "value": "\"iPad Air\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 14667,
+      "offset": 14519,
       "length": 9,
       "value": "\"iPad4,4\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 14685,
+      "offset": 14537,
       "length": 13,
       "value": "\"iPad mini 2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 14756,
+      "offset": 14608,
       "length": 9,
       "value": "\"iPad4,5\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 14774,
+      "offset": 14626,
       "length": 13,
       "value": "\"iPad mini 2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 14845,
+      "offset": 14697,
       "length": 9,
       "value": "\"iPad4,6\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 14863,
+      "offset": 14715,
       "length": 13,
       "value": "\"iPad mini 2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 14934,
+      "offset": 14786,
       "length": 9,
       "value": "\"iPad4,7\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 14952,
+      "offset": 14804,
       "length": 13,
       "value": "\"iPad mini 3\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 15023,
+      "offset": 14875,
       "length": 9,
       "value": "\"iPad4,8\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 15041,
+      "offset": 14893,
       "length": 13,
       "value": "\"iPad mini 3\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 15112,
+      "offset": 14964,
       "length": 9,
       "value": "\"iPad4,9\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 15130,
+      "offset": 14982,
       "length": 13,
       "value": "\"iPad mini 3\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 15201,
+      "offset": 15053,
       "length": 9,
       "value": "\"iPad5,1\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 15219,
+      "offset": 15071,
       "length": 13,
       "value": "\"iPad mini 4\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 15290,
+      "offset": 15142,
       "length": 9,
       "value": "\"iPad5,2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 15308,
+      "offset": 15160,
       "length": 13,
       "value": "\"iPad mini 4\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 15378,
+      "offset": 15230,
       "length": 9,
       "value": "\"iPad5,3\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 15396,
+      "offset": 15248,
       "length": 12,
       "value": "\"iPad Air 2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 15465,
+      "offset": 15317,
       "length": 9,
       "value": "\"iPad5,4\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 15483,
+      "offset": 15335,
       "length": 12,
       "value": "\"iPad Air 2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 15553,
+      "offset": 15416,
+      "length": 10,
+      "value": "\"iPad6,11\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 15435,
+      "length": 23,
+      "value": "\"iPad (5th generation)\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 15527,
+      "length": 10,
+      "value": "\"iPad6,12\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 15546,
+      "length": 23,
+      "value": "\"iPad (5th generation)\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 15635,
+      "length": 9,
+      "value": "\"iPad6,3\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 15653,
+      "length": 21,
+      "value": "\"iPad Pro (9.7-inch)\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 15740,
+      "length": 9,
+      "value": "\"iPad6,4\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 15758,
+      "length": 21,
+      "value": "\"iPad Pro (9.7-inch)\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 15846,
+      "length": 9,
+      "value": "\"iPad6,7\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 15864,
+      "length": 22,
+      "value": "\"iPad Pro (12.9-inch)\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 15953,
+      "length": 9,
+      "value": "\"iPad6,8\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 15971,
+      "length": 22,
+      "value": "\"iPad Pro (12.9-inch)\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 16077,
+      "length": 9,
+      "value": "\"iPad7,1\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 16095,
+      "length": 39,
+      "value": "\"iPad Pro (12.9-inch) (2nd generation)\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 16218,
+      "length": 9,
+      "value": "\"iPad7,2\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 16236,
+      "length": 39,
+      "value": "\"iPad Pro (12.9-inch) (2nd generation)\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 16342,
+      "length": 9,
+      "value": "\"iPad7,3\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 16360,
+      "length": 22,
+      "value": "\"iPad Pro (10.5-inch)\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 16449,
+      "length": 9,
+      "value": "\"iPad7,4\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 16467,
+      "length": 22,
+      "value": "\"iPad Pro (10.5-inch)\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 16557,
+      "length": 9,
+      "value": "\"iPad7,5\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 16575,
+      "length": 23,
+      "value": "\"iPad (6th generation)\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 16666,
+      "length": 9,
+      "value": "\"iPad7,6\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 16684,
+      "length": 23,
+      "value": "\"iPad (6th generation)\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 16765,
+      "length": 12,
+      "value": "\"iPhone10,1\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 16786,
+      "length": 10,
+      "value": "\"iPhone 8\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 16859,
+      "length": 12,
+      "value": "\"iPhone10,2\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 16880,
+      "length": 15,
+      "value": "\"iPhone 8 Plus\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 16953,
+      "length": 12,
+      "value": "\"iPhone10,3\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 16974,
+      "length": 10,
+      "value": "\"iPhone X\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 17042,
+      "length": 12,
+      "value": "\"iPhone10,4\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 17063,
+      "length": 10,
+      "value": "\"iPhone 8\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 17136,
+      "length": 12,
+      "value": "\"iPhone10,5\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 17157,
+      "length": 15,
+      "value": "\"iPhone 8 Plus\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 17230,
+      "length": 12,
+      "value": "\"iPhone10,6\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 17251,
+      "length": 10,
+      "value": "\"iPhone X\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 17319,
       "length": 11,
       "value": "\"iPhone4,1\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 15573,
+      "offset": 17339,
       "length": 11,
       "value": "\"iPhone 4S\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 15641,
+      "offset": 17407,
       "length": 11,
       "value": "\"iPhone5,1\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 15661,
+      "offset": 17427,
       "length": 10,
       "value": "\"iPhone 5\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 15728,
+      "offset": 17494,
       "length": 11,
       "value": "\"iPhone5,2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 15748,
+      "offset": 17514,
       "length": 10,
       "value": "\"iPhone 5\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 15816,
+      "offset": 17582,
       "length": 11,
       "value": "\"iPhone5,3\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 15836,
+      "offset": 17602,
       "length": 11,
       "value": "\"iPhone 5c\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 15905,
+      "offset": 17671,
       "length": 11,
       "value": "\"iPhone5,4\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 15925,
+      "offset": 17691,
       "length": 11,
       "value": "\"iPhone 5c\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 15994,
+      "offset": 17760,
       "length": 11,
       "value": "\"iPhone6,1\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 16014,
+      "offset": 17780,
       "length": 11,
       "value": "\"iPhone 5s\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 16083,
+      "offset": 17849,
       "length": 11,
       "value": "\"iPhone6,2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 16103,
+      "offset": 17869,
       "length": 11,
       "value": "\"iPhone 5s\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 16176,
+      "offset": 17942,
       "length": 11,
       "value": "\"iPhone7,1\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 16196,
+      "offset": 17962,
       "length": 15,
       "value": "\"iPhone 6 Plus\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 16268,
+      "offset": 18034,
       "length": 11,
       "value": "\"iPhone7,2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 16288,
+      "offset": 18054,
       "length": 10,
       "value": "\"iPhone 6\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 16356,
+      "offset": 18122,
       "length": 11,
       "value": "\"iPhone8,1\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 16376,
+      "offset": 18142,
       "length": 11,
       "value": "\"iPhone 6s\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 16450,
+      "offset": 18216,
       "length": 11,
       "value": "\"iPhone8,2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 16470,
+      "offset": 18236,
       "length": 16,
       "value": "\"iPhone 6s Plus\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 16561,
+      "offset": 18327,
       "length": 11,
       "value": "\"iPhone8,4\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 16581,
+      "offset": 18347,
       "length": 28,
       "value": "\"iPhone SE (1st generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 16666,
+      "offset": 18432,
       "length": 11,
       "value": "\"iPhone9,1\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 16686,
+      "offset": 18452,
       "length": 10,
       "value": "\"iPhone 7\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 16758,
+      "offset": 18524,
       "length": 11,
       "value": "\"iPhone9,2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 16778,
+      "offset": 18544,
       "length": 15,
       "value": "\"iPhone 7 Plus\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 16850,
+      "offset": 18616,
       "length": 11,
       "value": "\"iPhone9,3\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 16870,
+      "offset": 18636,
       "length": 10,
       "value": "\"iPhone 7\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 16942,
+      "offset": 18708,
       "length": 11,
       "value": "\"iPhone9,4\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 16962,
+      "offset": 18728,
       "length": 15,
       "value": "\"iPhone 7 Plus\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 17034,
+      "offset": 18800,
       "length": 9,
       "value": "\"iPod5,1\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 17052,
+      "offset": 18818,
       "length": 12,
       "value": "\"iPod touch\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 17138,
+      "offset": 18904,
       "length": 9,
       "value": "\"iPod7,1\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 17156,
+      "offset": 18922,
       "length": 29,
       "value": "\"iPod touch (6th generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 17259,
+      "offset": 19025,
       "length": 9,
       "value": "\"iPod9,1\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 17277,
+      "offset": 19043,
       "length": 29,
       "value": "\"iPod touch (7th generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 17399,
+      "offset": 19165,
       "length": 13,
       "value": "\"AppleTV11,1\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 17421,
+      "offset": 19187,
       "length": 30,
       "value": "\"Apple TV 4K (2nd generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 17530,
+      "offset": 19296,
       "length": 13,
       "value": "\"AppleTV14,1\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 17552,
+      "offset": 19318,
       "length": 30,
       "value": "\"Apple TV 4K (3rd generation)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 17640,
+      "offset": 19406,
       "length": 12,
       "value": "\"AppleTV5,3\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 17661,
+      "offset": 19427,
       "length": 10,
       "value": "\"Apple TV\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 17732,
+      "offset": 19498,
       "length": 12,
       "value": "\"AppleTV6,2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 17753,
+      "offset": 19519,
       "length": 13,
       "value": "\"Apple TV 4K\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 17823,
+      "offset": 19589,
       "length": 12,
       "value": "\"AppleTV3,1\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 17844,
+      "offset": 19610,
       "length": 9,
       "value": "\"AppleTV\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 17910,
+      "offset": 19676,
       "length": 12,
       "value": "\"AppleTV3,2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 17931,
+      "offset": 19697,
       "length": 9,
       "value": "\"AppleTV\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 18025,
-      "length": 10,
-      "value": "\"Watch4,1\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 18044,
-      "length": 22,
-      "value": "\"Apple Watch Series 4\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 18134,
-      "length": 10,
-      "value": "\"Watch4,2\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 18153,
-      "length": 22,
-      "value": "\"Apple Watch Series 4\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 18243,
-      "length": 10,
-      "value": "\"Watch4,3\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 18262,
-      "length": 22,
-      "value": "\"Apple Watch Series 4\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 18352,
-      "length": 10,
-      "value": "\"Watch4,4\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 18371,
-      "length": 22,
-      "value": "\"Apple Watch Series 4\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 18461,
-      "length": 10,
-      "value": "\"Watch5,1\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 18480,
-      "length": 22,
-      "value": "\"Apple Watch Series 5\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 18571,
-      "length": 11,
-      "value": "\"Watch5,10\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 18591,
-      "length": 22,
-      "value": "\"Apple Watch SE (GPS)\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 18693,
-      "length": 11,
-      "value": "\"Watch5,11\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 18713,
-      "length": 33,
-      "value": "\"Apple Watch SE (GPS + Cellular)\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 18826,
-      "length": 11,
-      "value": "\"Watch5,12\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 18846,
-      "length": 33,
-      "value": "\"Apple Watch SE (GPS + Cellular)\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 18947,
-      "length": 10,
-      "value": "\"Watch5,2\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 18966,
-      "length": 22,
-      "value": "\"Apple Watch Series 5\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 19056,
-      "length": 10,
-      "value": "\"Watch5,3\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 19075,
-      "length": 22,
-      "value": "\"Apple Watch Series 5\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 19165,
-      "length": 10,
-      "value": "\"Watch5,4\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 19184,
-      "length": 22,
-      "value": "\"Apple Watch Series 5\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 19274,
-      "length": 10,
-      "value": "\"Watch5,9\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 19293,
-      "length": 22,
-      "value": "\"Apple Watch SE (GPS)\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
-      "kind": "StringLiteral",
-      "offset": 19389,
+      "offset": 19797,
       "length": 10,
       "value": "\"Watch6,1\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 19408,
+      "offset": 19816,
       "length": 28,
       "value": "\"Apple Watch Series 6 (GPS)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 19505,
+      "offset": 19913,
       "length": 11,
       "value": "\"Watch6,10\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 19525,
+      "offset": 19933,
       "length": 22,
       "value": "\"Apple Watch SE (GPS)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 19616,
+      "offset": 20024,
       "length": 11,
       "value": "\"Watch6,11\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 19636,
+      "offset": 20044,
       "length": 22,
       "value": "\"Apple Watch SE (GPS)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 19738,
+      "offset": 20146,
       "length": 11,
       "value": "\"Watch6,12\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 19758,
+      "offset": 20166,
       "length": 33,
       "value": "\"Apple Watch SE (GPS + Cellular)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 19871,
+      "offset": 20279,
       "length": 11,
       "value": "\"Watch6,13\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 19891,
+      "offset": 20299,
       "length": 33,
       "value": "\"Apple Watch SE (GPS + Cellular)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 19999,
+      "offset": 20407,
       "length": 11,
       "value": "\"Watch6,14\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 20019,
+      "offset": 20427,
       "length": 28,
       "value": "\"Apple Watch Series 8 (GPS)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 20122,
+      "offset": 20530,
       "length": 11,
       "value": "\"Watch6,15\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 20142,
+      "offset": 20550,
       "length": 28,
       "value": "\"Apple Watch Series 8 (GPS)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 20256,
+      "offset": 20664,
       "length": 11,
       "value": "\"Watch6,16\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 20276,
+      "offset": 20684,
       "length": 39,
       "value": "\"Apple Watch Series 8 (GPS + Cellular)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 20401,
+      "offset": 20809,
       "length": 11,
       "value": "\"Watch6,17\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 20421,
+      "offset": 20829,
       "length": 39,
       "value": "\"Apple Watch Series 8 (GPS + Cellular)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 20526,
+      "offset": 20934,
       "length": 11,
       "value": "\"Watch6,18\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 20546,
+      "offset": 20954,
       "length": 19,
       "value": "\"Apple Watch Ultra\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 20639,
+      "offset": 21047,
       "length": 10,
       "value": "\"Watch6,2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 20658,
+      "offset": 21066,
       "length": 28,
       "value": "\"Apple Watch Series 6 (GPS)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 20771,
+      "offset": 21179,
       "length": 10,
       "value": "\"Watch6,3\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 20790,
+      "offset": 21198,
       "length": 39,
       "value": "\"Apple Watch Series 6 (GPS + Cellular)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 20914,
+      "offset": 21322,
       "length": 10,
       "value": "\"Watch6,4\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 20933,
+      "offset": 21341,
       "length": 39,
       "value": "\"Apple Watch Series 6 (GPS + Cellular)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 21046,
+      "offset": 21454,
       "length": 10,
       "value": "\"Watch6,6\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 21065,
+      "offset": 21473,
       "length": 28,
       "value": "\"Apple Watch Series 7 (GPS)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 21167,
+      "offset": 21575,
       "length": 10,
       "value": "\"Watch6,7\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 21186,
+      "offset": 21594,
       "length": 28,
       "value": "\"Apple Watch Series 7 (GPS)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 21299,
+      "offset": 21707,
       "length": 10,
       "value": "\"Watch6,8\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 21318,
+      "offset": 21726,
       "length": 39,
       "value": "\"Apple Watch Series 7 (GPS + Cellular)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 21442,
+      "offset": 21850,
       "length": 10,
       "value": "\"Watch6,9\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 21461,
+      "offset": 21869,
       "length": 39,
       "value": "\"Apple Watch Series 7 (GPS + Cellular)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 21574,
+      "offset": 21982,
       "length": 10,
       "value": "\"Watch7,1\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 21593,
+      "offset": 22001,
       "length": 28,
       "value": "\"Apple Watch Series 9 (GPS)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 21695,
+      "offset": 22116,
+      "length": 11,
+      "value": "\"Watch7,10\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 22136,
+      "length": 40,
+      "value": "\"Apple Watch Series 10 (GPS + Cellular)\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 22263,
+      "length": 11,
+      "value": "\"Watch7,11\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 22283,
+      "length": 40,
+      "value": "\"Apple Watch Series 10 (GPS + Cellular)\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 22397,
       "length": 10,
       "value": "\"Watch7,2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 21714,
+      "offset": 22416,
       "length": 28,
       "value": "\"Apple Watch Series 9 (GPS)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 21827,
+      "offset": 22529,
       "length": 10,
       "value": "\"Watch7,3\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 21846,
+      "offset": 22548,
       "length": 39,
       "value": "\"Apple Watch Series 9 (GPS + Cellular)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 21970,
+      "offset": 22672,
       "length": 10,
       "value": "\"Watch7,4\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 21989,
+      "offset": 22691,
       "length": 39,
       "value": "\"Apple Watch Series 9 (GPS + Cellular)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 22095,
+      "offset": 22797,
       "length": 10,
       "value": "\"Watch7,5\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 22114,
+      "offset": 22816,
       "length": 21,
       "value": "\"Apple Watch Ultra 2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 22216,
+      "offset": 22912,
+      "length": 10,
+      "value": "\"Watch7,8\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 22931,
+      "length": 29,
+      "value": "\"Apple Watch Series 10 (GPS)\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 23035,
+      "length": 10,
+      "value": "\"Watch7,9\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 23054,
+      "length": 29,
+      "value": "\"Apple Watch Series 10 (GPS)\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 23164,
       "length": 10,
       "value": "\"Watch1,1\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 22235,
+      "offset": 23183,
       "length": 35,
       "value": "\"Apple Watch (1st generation) 38mm\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 22351,
+      "offset": 23299,
       "length": 10,
       "value": "\"Watch1,2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 22370,
+      "offset": 23318,
       "length": 35,
       "value": "\"Apple Watch (1st generation) 42mm\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 22478,
+      "offset": 23426,
       "length": 10,
       "value": "\"Watch2,3\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 22497,
+      "offset": 23445,
       "length": 27,
       "value": "\"Apple Watch Series 2 38mm\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 22597,
+      "offset": 23545,
       "length": 10,
       "value": "\"Watch2,4\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 22616,
+      "offset": 23564,
       "length": 27,
       "value": "\"Apple Watch Series 2 42mm\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 22716,
+      "offset": 23664,
       "length": 10,
       "value": "\"Watch2,6\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 22735,
+      "offset": 23683,
       "length": 27,
       "value": "\"Apple Watch Series 1 38mm\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 22835,
+      "offset": 23783,
       "length": 10,
       "value": "\"Watch2,7\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 22854,
+      "offset": 23802,
       "length": 27,
       "value": "\"Apple Watch Series 1 42mm\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 22971,
+      "offset": 23919,
       "length": 10,
       "value": "\"Watch3,1\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 22990,
+      "offset": 23938,
       "length": 44,
       "value": "\"Apple Watch Series 3 (GPS + Cellular) 38mm\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 23124,
+      "offset": 24072,
       "length": 10,
       "value": "\"Watch3,2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 23143,
+      "offset": 24091,
       "length": 44,
       "value": "\"Apple Watch Series 3 (GPS + Cellular) 42mm\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 23266,
+      "offset": 24214,
       "length": 10,
       "value": "\"Watch3,3\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 23285,
+      "offset": 24233,
       "length": 33,
       "value": "\"Apple Watch Series 3 (GPS) 38mm\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 23397,
+      "offset": 24345,
       "length": 10,
       "value": "\"Watch3,4\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
       "kind": "StringLiteral",
-      "offset": 23416,
+      "offset": 24364,
       "length": 33,
       "value": "\"Apple Watch Series 3 (GPS) 42mm\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 24465,
+      "length": 10,
+      "value": "\"Watch4,1\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 24484,
+      "length": 22,
+      "value": "\"Apple Watch Series 4\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 24574,
+      "length": 10,
+      "value": "\"Watch4,2\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 24593,
+      "length": 22,
+      "value": "\"Apple Watch Series 4\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 24683,
+      "length": 10,
+      "value": "\"Watch4,3\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 24702,
+      "length": 22,
+      "value": "\"Apple Watch Series 4\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 24792,
+      "length": 10,
+      "value": "\"Watch4,4\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 24811,
+      "length": 22,
+      "value": "\"Apple Watch Series 4\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 24901,
+      "length": 10,
+      "value": "\"Watch5,1\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 24920,
+      "length": 22,
+      "value": "\"Apple Watch Series 5\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 25011,
+      "length": 11,
+      "value": "\"Watch5,10\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 25031,
+      "length": 22,
+      "value": "\"Apple Watch SE (GPS)\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 25133,
+      "length": 11,
+      "value": "\"Watch5,11\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 25153,
+      "length": 33,
+      "value": "\"Apple Watch SE (GPS + Cellular)\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 25266,
+      "length": 11,
+      "value": "\"Watch5,12\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 25286,
+      "length": 33,
+      "value": "\"Apple Watch SE (GPS + Cellular)\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 25387,
+      "length": 10,
+      "value": "\"Watch5,2\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 25406,
+      "length": 22,
+      "value": "\"Apple Watch Series 5\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 25496,
+      "length": 10,
+      "value": "\"Watch5,3\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 25515,
+      "length": 22,
+      "value": "\"Apple Watch Series 5\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 25605,
+      "length": 10,
+      "value": "\"Watch5,4\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 25624,
+      "length": 22,
+      "value": "\"Apple Watch Series 5\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 25714,
+      "length": 10,
+      "value": "\"Watch5,9\""
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/Device.swift",
+      "kind": "StringLiteral",
+      "offset": 25733,
+      "length": 22,
+      "value": "\"Apple Watch SE (GPS)\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VMaxRequestAttributes\/VMaxRequestAttributesClasses\/YearOfBirthRequestAttribute.swift",
@@ -57080,7 +57501,7 @@
       "kind": "IntegerLiteral",
       "offset": 3347,
       "length": 3,
-      "value": "191"
+      "value": "190"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
@@ -57154,50 +57575,57 @@
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4791,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
       "kind": "FloatLiteral",
-      "offset": 4845,
+      "offset": 4850,
       "length": 6,
       "value": "1000.0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
       "kind": "StringLiteral",
-      "offset": 4917,
+      "offset": 4922,
       "length": 14,
       "value": "\"time expires\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 4952,
+      "offset": 4957,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 4982,
+      "offset": 4987,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
       "kind": "StringLiteral",
-      "offset": 5966,
+      "offset": 5971,
       "length": 23,
       "value": "\"using stored GEO data\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
       "kind": "StringLiteral",
-      "offset": 6146,
+      "offset": 6151,
       "length": 35,
       "value": "\"fetching new GEO data from server\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 7312,
+      "offset": 7318,
       "length": 1,
       "value": "2"
     },
@@ -62687,7 +63115,7 @@
       "kind": "StringLiteral",
       "offset": 482,
       "length": 13,
-      "value": "\"A-IO-4.0.10\""
+      "value": "\"A-IO-4.0.12\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxManager.swift",
@@ -67822,64 +68250,29 @@
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
-      "kind": "StringLiteral",
-      "offset": 9450,
-      "length": 8,
-      "value": "\"gender\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
-      "kind": "StringLiteral",
-      "offset": 9613,
-      "length": 5,
-      "value": "\"age\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 9755,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9950,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9964,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 10757,
+      "offset": 10804,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "StringLiteral",
-      "offset": 10777,
+      "offset": 10824,
       "length": 8,
       "value": "\"X-AUTH\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "StringLiteral",
-      "offset": 11841,
+      "offset": 11888,
       "length": 34,
       "value": "\"using stored profileService data\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "StringLiteral",
-      "offset": 12040,
+      "offset": 12087,
       "length": 46,
       "value": "\"fetching new profileService data from server\""
     },
@@ -71505,308 +71898,308 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 12089,
+      "offset": 12088,
       "length": 64,
       "value": "\"In the adResponse, adm object is empty, or signature is empty.\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 15731,
+      "offset": 15730,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 15740,
+      "offset": 15739,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 16197,
+      "offset": 16196,
       "length": 25,
       "value": "\"event:\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 16221,
+      "offset": 16220,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "BooleanLiteral",
-      "offset": 17118,
+      "offset": 17117,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "BooleanLiteral",
-      "offset": 17167,
+      "offset": 17166,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 17195,
+      "offset": 17194,
       "length": 74,
       "value": "\"refreshInterval time is not configured by publisher fallback to 30 secs.\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "IntegerLiteral",
-      "offset": 17311,
+      "offset": 17310,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "BooleanLiteral",
-      "offset": 17475,
+      "offset": 17474,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 19333,
+      "offset": 19332,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 19447,
+      "offset": 19446,
       "length": 8,
       "value": "\"gender\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 19565,
+      "offset": 19564,
       "length": 6,
       "value": "\"city\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 19683,
+      "offset": 19682,
       "length": 8,
       "value": "\"region\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 19799,
+      "offset": 19798,
       "length": 5,
       "value": "\"age\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 19909,
+      "offset": 19908,
       "length": 5,
       "value": "\"zip\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "IntegerLiteral",
-      "offset": 20269,
+      "offset": 20268,
       "length": 4,
       "value": "6002"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 20300,
+      "offset": 20299,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "IntegerLiteral",
-      "offset": 20317,
+      "offset": 20316,
       "length": 4,
       "value": "6003"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 20348,
+      "offset": 20347,
       "length": 3,
       "value": "\"3\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "IntegerLiteral",
-      "offset": 20365,
+      "offset": 20364,
       "length": 4,
       "value": "6004"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 20396,
+      "offset": 20395,
       "length": 3,
       "value": "\"4\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "IntegerLiteral",
-      "offset": 20413,
+      "offset": 20412,
       "length": 4,
       "value": "6005"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 20444,
+      "offset": 20443,
       "length": 3,
       "value": "\"5\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "IntegerLiteral",
-      "offset": 20461,
+      "offset": 20460,
       "length": 4,
       "value": "6006"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 20492,
+      "offset": 20491,
       "length": 3,
       "value": "\"6\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "IntegerLiteral",
-      "offset": 20509,
+      "offset": 20508,
       "length": 4,
       "value": "6007"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 20540,
+      "offset": 20539,
       "length": 3,
       "value": "\"7\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "IntegerLiteral",
-      "offset": 20557,
+      "offset": 20556,
       "length": 4,
       "value": "6008"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 20588,
+      "offset": 20587,
       "length": 3,
       "value": "\"8\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 20634,
+      "offset": 20633,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 20751,
+      "offset": 20750,
       "length": 10,
       "value": "\"<NOFILL>\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "BooleanLiteral",
-      "offset": 21681,
+      "offset": 21680,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "BooleanLiteral",
-      "offset": 21712,
+      "offset": 21711,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 24687,
+      "offset": 24686,
       "length": 53,
       "value": "\"The adResponse is empty or nil for the given VmaxAd\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 25307,
+      "offset": 25306,
       "length": 53,
       "value": "\"The adResponse is empty or nil for the given VmaxAd\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "BooleanLiteral",
-      "offset": 26016,
+      "offset": 26015,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 26109,
+      "offset": 26108,
       "length": 38,
       "value": "\"Couldn't update the status of vmaxAd\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 26795,
+      "offset": 26794,
       "length": 38,
       "value": "\"Couldn't update the status of vmaxAd\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 26975,
+      "offset": 26974,
       "length": 57,
       "value": "\"Couldn't update the local variable of vmaxAd and markup\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 27509,
+      "offset": 27508,
       "length": 57,
       "value": "\"Couldn't update the local variable of vmaxAd and markup\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "BooleanLiteral",
-      "offset": 28553,
+      "offset": 28552,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 30197,
+      "offset": 30196,
       "length": 32,
       "value": "\"adRefreshTimer is empty or nil\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 30416,
+      "offset": 30415,
       "length": 32,
       "value": "\"adRefreshTimer is empty or nil\""
     },
@@ -72016,7 +72409,7 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Protocols\/VmaxAd.swift",
       "kind": "StringLiteral",
-      "offset": 3182,
+      "offset": 3216,
       "length": 2,
       "value": "\"\""
     },
