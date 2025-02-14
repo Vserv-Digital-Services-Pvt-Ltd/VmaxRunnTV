@@ -812,6 +812,7 @@ extension Vmax.VmaxVastEvent : Swift.CaseIterable {
   }
 }
 public protocol VmaxAdsInsertion : ObjectiveC.NSObject {
+  var disableAdsOnBreakContinuation: Swift.Bool { get set }
   func process(vmaxAdsInsertionModel: Vmax.VmaxAdsInsertionModel)
   func pauseProcessing()
   func resumeProcessing()
@@ -1145,6 +1146,7 @@ extension Vmax.VmaxDevice {
   public func setMarketingName(marketingName: Swift.String)
 }
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class VmaxAdsInsertionRequestBuilder : Vmax.VMaxRequestBuilder {
+  public var disableAdsOnBreakContinuation: Swift.Bool
   @discardableResult
   public func addBumperAdSpace(adSpace: Vmax.VmaxAdSpace) -> Vmax.VmaxAdsInsertionRequestBuilder
   @discardableResult
@@ -1478,7 +1480,6 @@ public enum VmaxAdSpaceState {
   case adRender
   case adError
   case adRenderError
-  case adClose
   public static func == (a: Vmax.VmaxAdSpaceState, b: Vmax.VmaxAdSpaceState) -> Swift.Bool
   public func hash(into hasher: inout Swift.Hasher)
   public var hashValue: Swift.Int {
